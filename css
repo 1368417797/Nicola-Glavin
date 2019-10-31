@@ -1,1 +1,29 @@
+.div1{
+     width:400px; 
+     height:50px; 
+     overflow:hidden; 
+     transition: all 1s;
+     position: absolute;
+     left:0px;
+     top:0px;
+
+  }
+.div2{
+    width:400px; 
+    height:50px; 
+    overflow:hidden; 
+    transition: all 1s;
+    position: absolute;
+    left: 400px;
+    top:0px;
+ }
+
+div:hover{ width:400px; 
+    height:300px; 
+    overflow:hidden;
+    transition: all 1s;
+  }
+  ul{list-style:none; margin:0; padding:0;}
+  ul li{width:400px; height:50px; line-height: 50px; background:#000000; color:white;}
+  
 
